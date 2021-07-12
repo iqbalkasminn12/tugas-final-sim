@@ -8,8 +8,9 @@ Jawaban
 a) top level management 
 b) middle management
 c) low level management 
+e) operator
 2.
-a)software atau web developer
+a)software/web developer
 b)data analyst
 c)security analyst
 d)hardware engineer
