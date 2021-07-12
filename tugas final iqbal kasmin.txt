@@ -1,0 +1,18 @@
+Tugas final
+Nama: IQBAL KASMIN
+Nim: 4520048008
+1.sebutkan tingkatan manajemen yang ada di teknologi informasi?
+2.sebutkan jenis pekerjaan yang ada di teknologi informasi minimal 5?
+Jawaban
+1.
+a) top level management 
+b) middle management
+c) low level management 
+2.
+a)software atau web developer
+b)data analyst
+c)security analyst
+d)hardware engineer
+e)database administrator
+
+
